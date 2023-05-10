@@ -5,8 +5,8 @@
 Davinci Resolve 18
 
 ## Ideas
- * An advert
- * A video about the problem, solution, roadblock and then the test
+ 1. An advert
+ 2. A video about the problem, solution, roadblock and then the test
    - We should take videos throughout the design process - start early
    
  
