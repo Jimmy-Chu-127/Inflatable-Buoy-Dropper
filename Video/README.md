@@ -18,4 +18,12 @@ __IMP:__
 * Prepare Camera etc for filming in makerspace/ while we are working
 * Settle on the format of video - what direction we want
 * Decide who is going to edit the video
-* 
+
+### Video Outline:
+1. Intro - Team name, members - animate this
+2. Project Demo - with voiceover - like an advert 
+   * Shot of ocean with someone struggling to swim
+   * Drone takes off with out attachment
+   * Person floats on buoy
+4. Cuts of us working on the parts - mashed together - emphasize on one or two bits
+5. Outro - with music, credits and links to our project
